@@ -1,0 +1,14 @@
+name: CI Guardrails - Branch Policy
+description: CI Guardrails - Branch Policy handles branch compliance with push event and delivers policy compliance summary as status check.
+author: YourCompany
+branding:
+  icon: play
+  color: blue
+inputs:
+  message:
+    description: Optional message to print
+    required: false
+    default: Hello from CI Guardrails - Branch Policy
+runs:
+  using: node20
+  main: dist/index.js

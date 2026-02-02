@@ -1,0 +1,2 @@
+CI Guardrails - Branch Policy handles branch compliance with push event and delivers policy compliance summary as status check. Ready for s…
+Reduce publishing friction across marketplace queues. Focus: Actions Workflow.

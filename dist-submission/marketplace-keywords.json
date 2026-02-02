@@ -1,0 +1,101 @@
+{
+  "primaryKeywords": [
+    "github",
+    "actions",
+    "ci",
+    "policy",
+    "lint",
+    "checks",
+    "automation",
+    "devops",
+    "qa",
+    "guardrails"
+  ],
+  "secondaryKeywords": [
+    "guardrails-tool",
+    "summary-tool",
+    "branch-tool",
+    "event-tool",
+    "ci-tool",
+    "policy-tool",
+    "handles",
+    "github_action",
+    "storage",
+    "summary"
+  ],
+  "tags": [
+    "github",
+    "actions",
+    "ci",
+    "policy",
+    "lint",
+    "checks",
+    "automation",
+    "devops",
+    "qa",
+    "guardrails",
+    "guardrails-tool",
+    "summary-tool",
+    "branch-tool",
+    "event-tool",
+    "ci-tool",
+    "policy-tool",
+    "handles",
+    "github_action",
+    "storage",
+    "summary",
+    "github-action"
+  ],
+  "synonyms": {
+    "github": [
+      "github-ops",
+      "github-workflow",
+      "github-tool"
+    ],
+    "handles": [
+      "handles-ops",
+      "handles-workflow",
+      "handles-tool"
+    ],
+    "github_action": [
+      "githubaction-ops",
+      "githubaction-workflow",
+      "githubaction-tool"
+    ],
+    "storage": [
+      "storage-ops",
+      "storage-workflow",
+      "storage-tool"
+    ],
+    "summary": [
+      "summary-ops",
+      "summary-workflow",
+      "summary-tool"
+    ],
+    "ci": [
+      "ci-ops",
+      "ci-workflow",
+      "ci-tool"
+    ],
+    "automation": [
+      "orchestration",
+      "autopilot",
+      "streamlining"
+    ],
+    "guardrails": [
+      "guardrails-ops",
+      "guardrails-workflow",
+      "guardrails-tool"
+    ],
+    "workflow": [
+      "pipeline",
+      "runbook",
+      "process"
+    ],
+    "checks": [
+      "guards",
+      "validators",
+      "gates"
+    ]
+  }
+}

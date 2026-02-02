@@ -1,0 +1,1 @@
+CI Guardrails - Branch Policy handles branch compliance with push event and delivers policy compliance summary as status check.

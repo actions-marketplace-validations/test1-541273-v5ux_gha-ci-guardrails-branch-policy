@@ -1,0 +1,54 @@
+{
+  "generatedAt": "2026-02-02T20:39:41.018Z",
+  "product": {
+    "slug": "ci-guardrails-branch-policy",
+    "name": "CI Guardrails - Branch Policy",
+    "description": "CI Guardrails - Branch Policy handles branch compliance with push event and delivers policy compliance summary as status check.",
+    "version": "0.1.2",
+    "license": "MIT"
+  },
+  "target": {
+    "platform": "github_action",
+    "productType": "automation"
+  },
+  "modules": [
+    "storage",
+    "analytics_events"
+  ],
+  "marketplace": {
+    "pricingModel": "free",
+    "price": 0,
+    "keywords": [
+      "github",
+      "actions",
+      "ci",
+      "policy",
+      "lint",
+      "checks",
+      "automation",
+      "devops",
+      "qa",
+      "guardrails",
+      "branch",
+      "compliance",
+      "push",
+      "event",
+      "summary",
+      "status",
+      "check",
+      "analytics-events",
+      "github-action",
+      "storage"
+    ]
+  },
+  "branding": {
+    "author": "YourCompany",
+    "website": "https://example.com",
+    "supportEmail": "support@example.com"
+  },
+  "adapter": {
+    "id": "github_action",
+    "displayName": "GitHub Marketplace (Action)",
+    "kind": "action"
+  }
+}
